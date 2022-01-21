@@ -28,6 +28,7 @@ export const TempApp = () => {
           <input
             type="search"
             name="search"
+            placeholder="Search Country"
             value={search}
             className="inputField"
             onChange={handleChange}
@@ -48,6 +49,7 @@ export const TempApp = () => {
               </h3>
             </div>
             <div className="wave-one"></div>
+            <div className="wave two"></div>
           </div>
         )}
       </div>

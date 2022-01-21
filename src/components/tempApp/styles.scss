@@ -24,7 +24,7 @@
   height: 2rem;
 }
 .information {
-  margin-top: 9rem;
+  margin-top: 6rem;
   // display: flex;
   margin-left: 5rem;
 }
@@ -55,7 +55,7 @@
   z-index: 2 !important;
   opacity: 0.2;
 }
-.wave .-two {
+.wave.two {
   animation: drift 700ms infinite linear;
   z-index: 3 !important;
   opacity: 0.1;
